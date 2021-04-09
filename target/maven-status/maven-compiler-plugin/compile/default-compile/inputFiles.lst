@@ -1,0 +1,10 @@
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/repository/IncidentRepository.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/model/Location.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/GetfriendsApplication.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/controller/UserController.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/service/IncidentService.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/model/User.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/service/UserService.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/model/Incident.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/controller/IncidentController.java
+/home/andrei/binary backend/src/main/java/com/satrabench/getfriends/repository/UserRepository.java

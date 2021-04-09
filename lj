@@ -1,0 +1,24 @@
+[33mcommit b82ebc1723f98e84c61bbb028081d422a27628d1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ea9fbeb 303142e
+Author: Andra <vasilacheandragabriela@gmail.com>
+Date:   Sat Nov 23 17:32:46 2019 +0200
+
+    Merge branch 'master' of https://github.com/Andu033/binaryBackend
+
+[33mcommit ea9fbebb4364a5e21f2b7081d99542198530bdef[m
+Author: Andra <vasilacheandragabriela@gmail.com>
+Date:   Sat Nov 23 17:31:13 2019 +0200
+
+    tasks
+
+[33mcommit 303142eb29fc123c881286b70caccc2f19191a2b[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Stanila Andrei <andrei133303@gmail.com>
+Date:   Sat Nov 23 17:26:53 2019 +0200
+
+    work
+
+[33mcommit 8df6ca986c9e7c717faa5b6f400bbbd1cb1aaab9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Stanila Andrei <andrei133303@gmail.com>
+Date:   Sun Nov 17 12:01:48 2019 +0200
+
+    init
